@@ -1,5 +1,5 @@
 # Phase 1 Deliverable:
-1. click this (https://dsi-faculty-network-brignac.streamlit.app/)[https://dsi-faculty-network-brignac.streamlit.app/]
+1. click this [https://dsi-faculty-network-brignac.streamlit.app/](https://dsi-faculty-network-brignac.streamlit.app/)
 2. Read the README.md file
 3. Check out the code
 
